@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fashion Descontrol",
+    "description": "",
+    "home_page_url": "https://www.fashiondescontrol.com.br",
+    "feed_url": "https://www.fashiondescontrol.com.br/feed.json",
+    "user_comment": "",
+    "icon": "https://www.fashiondescontrol.com.br/media/website/fashion-descontrol.JPG",
+    "author": {
+        "name": "Débora Souza"
+    },
+    "items": [
+    ]
+}
